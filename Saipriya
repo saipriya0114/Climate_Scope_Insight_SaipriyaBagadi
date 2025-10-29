@@ -1,0 +1,22 @@
+# Climate Scope Insight – Infosys Springboard Internship
+
+## Project Overview
+This project focuses on analyzing climate-related data to gain insights about environmental patterns and sustainability indicators.
+
+## Objectives
+- Perform data cleaning and preprocessing
+- Conduct exploratory data analysis (EDA)
+- Identify key insights and patterns
+- Visualize results using Python libraries (Matplotlib, Seaborn, Plotly)
+- Generate a final report with conclusions
+
+## Files Included
+- `dataset.csv` – Raw dataset used for analysis  
+- `analysis.ipynb` – Jupyter Notebook with code and visualizations  
+- `report.pdf` – Final project report summarizing the findings  
+
+## Intern Details
+**Name:** Saipriya Bagadi  
+**Internship:** Infosys Springboard Internship  
+**Project Title:** Climate Scope Insight  
+**Duration:** 8 Weeks  
